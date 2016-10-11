@@ -7,7 +7,7 @@ general review
 
 [Distinct oligoclonal band antibodies in multiple sclerosis recognize ubiquitous self-proteins](https://doi.org/10.1073/pnas.1522730113)
 
-with raw data, cdr3 generated.
+with raw data, cdr3 reproduced.
 
 
 
