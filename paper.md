@@ -24,3 +24,7 @@ no raw data.
 Birgit Obermeier, Reinhard Mentele, Joachim Malotka, Josef Kellermann, Tania Kümpfel, Hartmut Wekerle, Friedrich Lottspeich, Reinhard Hohlfeld & Klaus Dornmair Nature medicine 14, 688 - 693 (2008) Published online: 18 May 2008
 
 no raw data
+
+>Jorunn N. Johansen, Frode Vartdal, Cindy Desmarais, Astrid E.V. Tutturen, Gustavo A. de Souza, Andreas Lossius, Trygve Holmøy, Intrathecal BCR transcriptome in multiple sclerosis versus other neuroinflammation: Equally diverse and compartmentalized, but more mutated, biased and overlapping with the proteome, Clinical Immunology, Volume 160, Issue 2, October 2015, Pages 211-225, ISSN 1521-6616, http://dx.doi.org/10.1016/j.clim.2015.06.001.
+
+no raw data
